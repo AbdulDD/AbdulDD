@@ -1,6 +1,7 @@
 # Abdul Muqtadir
 
-**_AI Enthusiast | Machine Learning | Computer Vision_**
+
+[LinkedIn](https://www.linkedin.com/in/abdul-muqtadir-0bab81170/) | [Email](mailto:amuqtadirch@gmail.com)
 
 I'm Abdul Muqtadir, An AI enthusiastic and dedicate learner. I have been working as a Machine Learning (ML) researcher at Datainsight Research Lab, Fast University Islamabad. I have nearly two years of professional experience in Machine learning, specifically in Computer Vision (CV). At Datainsight I have worked on industry project related to applicaiton of Vision transformer models to solve real-world problem in Medical domain. Here at my GitHub, you will find projects in different areas of AI, like Computer vision (CV), Natural Processing Language (NLP), Machine Learning (ML), Deep Learning (DL) and Automatic Speech Recognition (ASR).
 
@@ -27,5 +28,3 @@ Each repository hold projects related to that specific are of Artificial Intelli
 
 **BE(Electronics Engineering) | Sukkur IBA University, Sukkur | August 2017 - May 2021**
 
-# Contact me
-[LinkedIn](https://www.linkedin.com/in/abdul-muqtadir-0bab81170/) | [Email](mailto:amuqtadirch@gmail.com)
