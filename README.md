@@ -8,7 +8,7 @@ I'm Abdul Muqtadir, An AI enthusiastic and dedicate student. I have been working
 **Machine Learning (ML) Researcher | DataInsight Research Lab, Fast University, Islamabad | August 2023 - September 2024**
 
 
-**Computer Vision (CV) Intern| DataInsight Research Lab, Fast University, Islamabad | June 2023 - August 2023**
+**Computer Vision (CV) Intern | DataInsight Research Lab, Fast University, Islamabad | June 2023 - August 2023**
 
 
 **Machine Learning Intern | Eziline Software House, Rawalpindi | january 2023 - April 2024**
