@@ -11,12 +11,6 @@ I'm Abdul Muqtadir, An AI enthusiastic and dedicate student. I have been working
 
 **Machine Learning Intern | Eziline Software House, Rawalpindi | Jan 2023 - April 2024 | [Repository](https://github.com/AbdulDD/MLI-Eziline-SH/tree/main)**
 
-## Education
-**MS(Artificial Intelligence) | Fast University, Islamabad | August 2022 - December 2024**
-
-**BE(Electronics Engineering) | Sukkur IBA University, Sukkur | August 2017 - May 2021**
-
-
 
 ## All Repositories
 Each repository hold projects related to that specific are of Artificial Intelligence
@@ -26,6 +20,12 @@ Each repository hold projects related to that specific are of Artificial Intelli
 - [Natural Processing Language (NLP)](https://github.com/AbdulDD/NLP_Portfolio)
 - [Deep Learning (DL)](https://github.com/AbdulDD/Deep-Learning-Portfolio)
 - [Learn and Code](https://github.com/AbdulDD/Learn-Pytorch)
+
+
+## Education
+**MS(Artificial Intelligence) | Fast University, Islamabad | August 2022 - December 2024**
+
+**BE(Electronics Engineering) | Sukkur IBA University, Sukkur | August 2017 - May 2021**
 
 # Contact me
 [LinkedIn](https://www.linkedin.com/in/abdul-muqtadir-0bab81170/) | [Email](mailto:amuqtadirch@gmail.com)
