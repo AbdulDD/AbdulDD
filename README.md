@@ -1,5 +1,5 @@
 # Abdul Muqtadir
-[LinkedIn](https://www.linkedin.com/in/abdul-muqtadir-0bab81170/) [Email](mailto:amuqtadirch@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abdul-muqtadir-0bab81170/) | [Email](mailto:amuqtadirch@gmail.com)
 
 **_AI Enthusiast | Machine Learning | Computer Vision_**
 
