@@ -8,4 +8,5 @@ I am Abdul Muqtadir, An AI enthusiastic and student. I have been working at Data
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/abdul-muqtadir-0bab81170/)
-- [Email](mainto:amuqtadirch@gmail.com)
+- [Email](mailto:amuqtadirch@gmail.com)
+
