@@ -4,6 +4,11 @@
 
 I'm Abdul Muqtadir, An AI enthusiastic and dedicate student. I have been working as a Machine Learning (ML) researcher at Datainsight Research Lab, Fast University Islamabad. I have nearly two years of professional experience in Machine learning, specifically in Computer Vision (CV). At Datainsight I have worked on industry project related to applicaiton of Vision transformer models to solve real-world problem in Medical domain. Here at my GitHub, you will find projects in different areas of AI, like Computer vision (CV), Natural Processing Language (NLP), Machine Learning (ML), Deep Learning (DL) and Automatic Speech Recognition (ASR).
 
+## Experience
+**Machine Learning (ML) Research** at DataInsight Research Lab, Fast University Islamabad.
+August 2023 to September 2024
+
+
 ## Repositories
 Each repository hold projects related to that specific are of Artificial Intelligence
 
