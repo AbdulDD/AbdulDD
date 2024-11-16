@@ -1,5 +1,4 @@
 # Abdul Muqtadir
-[LinkedIn](https://www.linkedin.com/in/abdul-muqtadir-0bab81170/) | [Email](mailto:amuqtadirch@gmail.com)
 
 **_AI Enthusiast | Machine Learning | Computer Vision_**
 
@@ -7,7 +6,9 @@ I'm Abdul Muqtadir, An AI enthusiastic and dedicate student. I have been working
 
 ## Experience
 **Machine Learning (ML) Researcher | DataInsight Research Lab, Fast University, Islamabad | August 2023 - September 2024**
+
 **Computer Vision (CV) Intern | DataInsight Research Lab, Fast University, Islamabad | June 2023 - August 2023**
+
 **Machine Learning Intern | Eziline Software House, Rawalpindi | january 2023 - April 2024**
 
 ## Education
@@ -26,4 +27,5 @@ Each repository hold projects related to that specific are of Artificial Intelli
 - [Deep Learning (DL)](https://github.com/AbdulDD/Deep-Learning-Portfolio)
 - [Learn and Code](https://github.com/AbdulDD/Learn-Pytorch)
 
-
+# Contact me
+[LinkedIn](https://www.linkedin.com/in/abdul-muqtadir-0bab81170/) | [Email](mailto:amuqtadirch@gmail.com)
