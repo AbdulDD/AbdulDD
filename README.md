@@ -15,6 +15,7 @@ I'm Abdul Muqtadir, An AI enthusiastic and dedicate student. I have been working
 
 ## Education
 **MS(Artificial Intelligence) | Fast University, Islamabad | August 2022 - December 2024**
+
 **BE(Electronics Engineering) | Sukkur IBA University, Sukkur | August 2017 - May 2021**
 
 
