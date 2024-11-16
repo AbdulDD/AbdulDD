@@ -6,6 +6,7 @@ I'm Abdul Muqtadir, An AI enthusiastic and dedicate student. I have been working
 
 ## Experience
 **Machine Learning (ML) Research** at DataInsight Research Lab, Fast University Islamabad.
+
 August 2023 to September 2024
 
 
