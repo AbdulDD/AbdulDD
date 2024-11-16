@@ -5,11 +5,11 @@
 I'm Abdul Muqtadir, An AI enthusiastic and dedicate student. I have been working as a Machine Learning (ML) researcher at Datainsight Research Lab, Fast University Islamabad. I have nearly two years of professional experience in Machine learning, specifically in Computer Vision (CV). At Datainsight I have worked on industry project related to applicaiton of Vision transformer models to solve real-world problem in Medical domain. Here at my GitHub, you will find projects in different areas of AI, like Computer vision (CV), Natural Processing Language (NLP), Machine Learning (ML), Deep Learning (DL) and Automatic Speech Recognition (ASR).
 
 ## Experience
-**Machine Learning (ML) Researcher | DataInsight Research Lab, Fast University, Islamabad | August 2023 - September 2024 | [Private Repository](https://github.com/naeembuitms/Digitizing-Prescriptions/tree/main)**
+**Machine Learning (ML) Researcher | DataInsight Research Lab, Fast University, Islamabad | August 2023 - September 2024 | [Repository](https://github.com/naeembuitms/Digitizing-Prescriptions/tree/main)**
 
 **Computer Vision (CV) Intern | DataInsight Research Lab, Fast University, Islamabad | June 2023 - August 2023 | [Repository](https://github.com/AbdulDD/NLP_Portfolio/tree/main/BERT)**
 
-**Machine Learning Intern | Eziline Software House, Rawalpindi | january 2023 - April 2024 | [Repository](https://github.com/AbdulDD/NLP_Portfolio/tree/main/BERT)**
+**Machine Learning Intern | Eziline Software House, Rawalpindi | january 2023 - April 2024 | [Repository](https://github.com/AbdulDD/MLI-Eziline-SH/tree/main)**
 
 ## Education
 **MS(Artificial Intelligence) | Fast University, Islamabad | August 2022 - December 2024**
