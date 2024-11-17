@@ -17,7 +17,6 @@ I'm Abdul Muqtadir, An AI enthusiastic and dedicate learner. I have been working
 
 
 ## Other Repositories
-Each repository hold projects related to that specific are of Artificial Intelligence
 
 - [Machine Learning (ML)](https://github.com/AbdulDD/Machine-Learning-portfolio)
 - [Computer Vision (CV)](https://github.com/AbdulDD/Computer-Vision)
