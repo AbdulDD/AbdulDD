@@ -6,7 +6,7 @@
 I'm Abdul Muqtadir, An AI enthusiastic and dedicate learner. I have been working as a Machine Learning (ML) researcher at Datainsight Research Lab, Fast University Islamabad. I have nearly two years of professional experience in Machine learning, specifically in Computer Vision (CV). At Datainsight I have worked on industry project related to applicaiton of transformer models and design of modular pipeline to solve real-world problem in Medical domain. Here at my GitHub, you will find my work in different areas of AI, like Computer vision (CV), Natural Processing Language (NLP), Machine Learning (ML), Deep Learning (DL) and Automatic Speech Recognition (ASR).
 
 ## Activity
-- [ ] **17 Nov 2024:** Classifying fake news from headlines of news articles on [WELFake](https://doi.org/10.1109/TCSS.2021.3068519) dataset
+- [ ] **17 Nov 2024:** Classifying fake based on textual features in news articles on [WELFake](https://doi.org/10.1109/TCSS.2021.3068519) dataset using [BERT](https://doi.org/10.48550/arXiv.1810.04805)
 
 ## Experience
 **Machine Learning (ML) Researcher | DataInsight Research Lab, Fast University, Islamabad | Aug 2023 - Sept 2024 | [Repository](https://github.com/naeembuitms/Digitizing-Prescriptions/tree/main)**
