@@ -12,7 +12,7 @@ I'm Abdul Muqtadir, An AI enthusiastic and dedicate learner. I have been working
 ## Experience
 **Machine Learning (ML) Researcher | DataInsight Research Lab, Fast University, Islamabad | Aug 2023 - Sept 2024 | [Repository](https://github.com/naeembuitms/Digitizing-Prescriptions/tree/main)**
 
-**Machine Learning (ML) and Computer Vision (CV) Intern | DataInsight Research Lab, Fast University, Islamabad | June 2023 - Aug 2023 | [Repository](https://github.com/AbdulDD/CV-Datainsight)**
+**Machine Learning & Computer Vision Intern | DataInsight Research Lab, Fast University, Islamabad | June 2023 - Aug 2023 | [Repository](https://github.com/AbdulDD/CV-Datainsight)**
 
 **Machine Learning Intern | Eziline Software House, Rawalpindi | Jan 2023 - April 2024 | [Repository](https://github.com/AbdulDD/MLI-Eziline-SH/tree/main)**
 
