@@ -1,4 +1,4 @@
-# Abdul Muqtadir
+# Abdul Muqtadar
 
 
 [LinkedIn](https://www.linkedin.com/in/abdul-muqtadir-0bab81170/) | [Email](mailto:amuqtadirch@gmail.com)
