@@ -11,6 +11,8 @@ I'm Abdul Muqtadir, An AI enthusiastic and dedicate learner. I have been working
 - **17 Nov 2024:** Classifying fake news based on textual features in news articles on [WELFake](https://doi.org/10.1109/TCSS.2021.3068519) dataset using [BERT](https://doi.org/10.48550/arXiv.1810.04805)
 
 ## Experience
+**AI/ML Engineer | Code Knitters, CemTech, Islamabad | Feb 2024 - Present | [Repository](https://github.com/naeembuitms/Digitizing-Prescriptions/tree/main)**
+
 **Machine Learning (ML) Researcher | DataInsight Research Lab, Fast University, Islamabad | Aug 2023 - Sept 2024 | [Repository](https://github.com/naeembuitms/Digitizing-Prescriptions/tree/main)**
 
 **Machine Learning & Computer Vision Intern | DataInsight Research Lab, Fast University, Islamabad | June 2023 - Aug 2023 | [Repository](https://github.com/AbdulDD/CV-Datainsight)**
