@@ -17,6 +17,7 @@ I'm Abdul Muqtadir, An AI enthusiastic and dedicate learner. I have been working
 
 ## Repositories
 
+- [UnifiedVQA Approach] (https://github.com/AbdulDD/UnifiedVQA)
 - [Machine Learning (ML)](https://github.com/AbdulDD/Machine-Learning-portfolio)
 - [Computer Vision (CV)](https://github.com/AbdulDD/Computer-Vision)
 - [Natural Processing Language (NLP)](https://github.com/AbdulDD/NLP_Portfolio)
