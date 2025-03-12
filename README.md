@@ -15,7 +15,7 @@ I'm Abdul Muqtadir, An AI enthusiastic and dedicate learner. I have been working
 **Machine Learning Intern | Eziline Software House, Rawalpindi | Jan 2023 - April 2024**
 
 
-## Other Repositories
+## Repositories
 
 - [Machine Learning (ML)](https://github.com/AbdulDD/Machine-Learning-portfolio)
 - [Computer Vision (CV)](https://github.com/AbdulDD/Computer-Vision)
