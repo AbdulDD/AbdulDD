@@ -15,6 +15,7 @@
 
 ## Repositories
 Few repos to look quickly at the work I have done so far
+- [Microservices on Cloud Platforms](https://github.com/AbdulDD/Functions-as-Microservices)
 - [Sentimental Analysis API using Flask (Continuous Integration) Pipeline](https://github.com/AbdulDD/Sentimental-Analysis-API-with-Flask-Continuous-Integration-CI-pipeline)
 - [PyTorch Codes](https://github.com/AbdulDD/Pytorch)
 - [UnifiedVQA Approach](https://github.com/AbdulDD/UnifiedVQA)
