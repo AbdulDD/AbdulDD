@@ -15,7 +15,7 @@
 
 ## Repositories
 Few repos to look quickly at someof my work
-- [Microservices on Cloud Platforms](https://github.com/AbdulDD/Functions-as-Microservices) (On going)
+- [Containerized ML solution as Microservice with AWS Technology](https://github.com/AbdulDD/Functions-as-Microservices) (On going)
 - [Sentimental Analysis API using Flask (Continuous Integration) Pipeline](https://github.com/AbdulDD/Sentimental-Analysis-API-with-Flask-Continuous-Integration-CI-pipeline)
 - [PyTorch Codes](https://github.com/AbdulDD/Pytorch)
 - [UnifiedVQA Approach](https://github.com/AbdulDD/UnifiedVQA)
