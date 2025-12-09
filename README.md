@@ -39,6 +39,4 @@ Few repos to look quickly at some of my work
 
 
 
-![Metrics](https://raw.githubusercontent.com/AbdulDD/AbdulDD/main/github-metrics.svg)
-
 
