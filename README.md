@@ -28,3 +28,12 @@ Few repos to look quickly at some of my work
 
 **BE(Electronics Engineering) | Sukkur IBA University, Sukkur | August 2017 - May 2021**
 
+
+## GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbdulDD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AbdulDD&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulDD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AbdulDD&icon=0&color=0)](https://visitcount.itsvg.in)
+
