@@ -37,3 +37,8 @@ Few repos to look quickly at some of my work
 ---
 [![](https://visitcount.itsvg.in/api?id=AbdulDD&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+![Metrics](https://raw.githubusercontent.com/AbdulDD/AbdulDD/main/github-metrics.svg)
+
+
