@@ -15,7 +15,7 @@
 
 ## Repositories
 Few repos to look quickly at some of my work
-- [Image segmentation and automated packaging with DockerHub](https://github.com/AbdulDD/Containerized-Pothole-Segmentation-Pipeline-with-MLflow-and-Docker-Hub-Automation)
+- [LLMs and Generative AI](https://github.com/AbdulDD/LLMs-and-Generative-AI)
 - [Containerized ML solution as Microservice with AWS Technology](https://github.com/AbdulDD/Containerized-Microservice-with-AWS) (On going)
 - [Sentimental Analysis API using Flask (Continuous Integration) Pipeline](https://github.com/AbdulDD/Sentimental-Analysis-API-with-Flask-Continuous-Integration-CI-pipeline)
 - [PyTorch Codes](https://github.com/AbdulDD/Pytorch)
